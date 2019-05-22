@@ -1,3 +1,16 @@
+## Demo of using maps with React
+
+This demo uses [react-map-gl](https://uber.github.io/react-map-gl) and [deck.gl](https://deck.gl) to render Mapbox maps with different layers on top.
+
+#### Useful Utilities
+
+- http://geojson.io
+- [TopoJSON](https://github.com/topojson/topojson)
+- [Turf.js](https://turfjs.org)
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
